@@ -1,0 +1,352 @@
+body{
+  border: 1px solid red;
+  max-width: 1440px;
+  height: 5470px; 
+  margin: auto;
+  box-shadow: 20px 20px 20px 20px #E5E5E5;
+  
+}
+
+header{
+  width: 80%;
+  height: 152px;
+  margin: auto;
+  background-color: yellow;
+
+}
+.soat{
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.toooo1{
+  margin: 0 10px;
+}
+.soata2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.revon{
+  display: flex;
+}
+.revon3{
+  margin-left: 15px;
+}
+.deron{
+  width: 40%;
+  position: relative;
+}
+.deron input{
+  width: 100%;
+  border-radius: 20px;
+  padding: 15px 10px;
+}
+.betven{
+  position: absolute;
+  right: 1px;
+  top: 15px;
+}
+.toooo1{
+  display: none;
+}
+
+.durdon .retro1{
+  margin: 0 5px;
+  text-decoration: none;
+}
+.menu{
+  display: none;
+}
+.sefff{
+  width: 80%;
+  height:auto;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+.sefff img{
+  width: 100%;
+  margin: auto;
+}
+.yozev{
+  width: 506px;
+  margin: 20px 0;
+}
+.yozev h1{
+width: 200px;
+height: 130px;
+}
+.yozev p{
+  width: 250px;
+  height: 48px;
+  font-size: 15px; 
+}
+.yozev button{
+  width: 154px;
+  height: 56px;
+  border-radius: 25px;
+  border: none;
+  font-size: 20px;
+}
+.image{
+  width: 100%;
+  margin: auto;
+}
+.dilafruz{
+  width: 97%;
+  margin: auto;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border-radius: 20px;
+}
+.topa{
+  width: 100%;
+  margin: auto;
+}
+
+.gul1{
+  width: 92px;
+  height: 92px;
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+}
+.gulnoz{
+  width: 97%;
+  margin: auto;
+}
+.gulnoz img {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.sefan{
+  height: auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: auto
+}
+.rasm1{
+  height:420px ;
+  width: 236px;
+}
+.batin{
+  width: 115px;
+  height: 40px;
+  background-color: yellow;
+  border-radius: 10px 0 10px 0;
+}
+.rasm2{
+  height: 230px;
+  width: 488px;
+}
+.rasm3{
+  height: 400px;
+  width: 236px;
+}
+.ramis{
+  width: 100%;
+  margin: auto;
+}
+.ramis h1{
+  font-size: 30px;
+}
+.ramis button{
+  margin-left:52%;
+  width: 100px;
+}
+.baner{
+  padding: 10px;
+}
+.azam{
+  width: 100%;
+  margin: auto;
+}
+.azam h1{
+  font-size: 30px;
+}
+.azam button{
+  margin-left:75%;
+  width: 100px;
+}
+.baner{
+  padding: 10px;
+}
+.rasm4{
+  height: 260 px;
+  width: 236px;
+  margin: auto;
+}
+.rasm5{
+  height: 200px;
+  width: 236px;
+  margin: auto;
+}
+.rasm6{
+  height: 150px;
+  width: 488px;
+  margin: auto;
+  display: flex;
+}
+.maruf{
+  height: 40px;
+  width: 115px;
+  border-radius: 15px;
+  border: none;
+  margin-top: 20px;
+}
+.rasm7{
+  height: 270px;
+  width: 488px;
+}
+.hordog{
+  color:#FEBA0C;
+}
+.rasm8{
+  height: 300px;
+  width: 186px;
+}
+.bacgraund{
+  height: 705px;
+  width: 100%;
+  background-image:url("/css/Background200.png") ;
+}
+.rano{
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+.figma{
+  height:461px;
+  width: 50%;
+}
+.osiyo{
+  height: 92px;
+  width: 318px;
+  font-size: 50px;
+}
+.osiya{
+  height:48px ;
+  width: 318px;
+  font-size: 20px;
+}
+.figma .munis{
+  height: 48px;
+  width: 318px;
+  border: none;
+  border-radius: 15px;
+}
+.muxlis{
+  height: 48px;
+  width: 318px;
+  margin:10px 0;
+  border: none;
+  border-radius: 15px;
+}
+
+.lola{
+  height: 48px;
+  width: 130px;
+  border-radius: 15px;
+  font-size: 15px;
+  border: none;
+}
+.maxsut{
+  width: 50%;
+  height: 490px;
+  position: relative;
+}
+.ter{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+footer{
+  height: 150px;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.notin p{
+  height: 24px;
+  width: 180px;
+}
+/* .batin{
+  display: flex;
+} */
+.lorim img{
+  margin: 0 5px;
+}
+.nomalum{
+  display: none;
+}
+.botir{
+  text-align: center;
+}
+.oxirgigul{
+  display: flex;
+  justify-content: space-around;
+  display:none
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:768px){
+  .toooo1{
+    display: block;
+  }
+  .revon3{
+    display: none;
+  }
+  .menu{
+    display: block;
+  }
+  .retro1{
+    display: none;
+  }
+  .sefan{
+    display: none 40%;
+  }
+  .notin{
+    display: none;
+  }
+  .botin{
+    display: none;
+  }
+  .borin{
+    display: none;
+  }
+
+  .nomalum{
+    display: block;
+  }
+  .oxirgigul{
+    display: block;
+  }
+  
+}
+
+
+
+
+
+
+
+
+ 
+  
